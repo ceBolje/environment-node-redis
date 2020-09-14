@@ -1,9 +1,9 @@
 #Environment NodeJS with redis
 ##Run
-docker-compose up -d
+#####docker-compose up -d
 
 ##Check
-docker ps
+#####docker ps
 
 ##See
-docker logs <container ID>
+#####docker logs <container ID>
